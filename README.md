@@ -1,14 +1,12 @@
 # Jens van de Wiel
-Hello! my name is Jens, i'm a junior dev located in the Netherlands
+[![My stats](https://github-readme-stats.vercel.app/api?username=JensvandeWiel&theme=aura)](https://github-readme-stats.vercel.app/api?username=JensvandeWiel)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JensvandeWiel)
+[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JensvandeWiel&layout=compact)](https://github-readme-stats.vercel.app/api/wakatime?username=JensvandeWiel)
 
-## What i use/used in my projects:
-[![using](https://skillicons.dev/icons?i=arduino,css,cpp,docker,git,github,go,laravel,php,powershell,raspberrypi,cloudflare,materialui,mysql,ts,nginx,idea,html,react,rust,scala,tailwind,unity,unreal,vite,vue&perline=12)](https://jens.vandewiel.eu)
-I use more stuff but its not added to skillicons.dev
-## What i want to learn/planning to use in projects:
-[![going to use](https://skillicons.dev/icons?i=cassandra,dart,flutter,firebase,kubernetes,mongodb,postgres,redis,ruby,rails,supabase,svelte,solidjs,tauri,wasm&perline=15)](https://jens.vandewiel.eu)
 ## Active projects:
 - Rustmanager (A Manager program to manage a rust (game) server)
-- Developpment site (site to document experience on using a small blog like articles) (contain my resume)
+- ArkAscnededServerManager (A Manager program to manage multiple Ark Ascended (game) servers with ease)
+- Development site (site to document experience on using a small blog like articles) (contain my resume)
 - Schoolantwoorden123.nl (Contains answers for subjects that are teached on my high school)
 - jens.vandewiel.eu (personal site)
 ## Want to collaborate on anything or start a new project with me?
